@@ -23,7 +23,7 @@ class MainApp extends StatelessWidget {
             Positioned(
               top: 150,
               child: Text(
-                'greenapp!',
+                'My Green App',
                 style: TextStyle(fontSize: 50, color: Colors.white),
               ),
             ),
